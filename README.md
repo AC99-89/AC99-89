@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+~ 📚 I'm a student at UNC (Go Tar Heels!).
+
+~ 🌱 I’m currently learning Python, HTML, CSS, and JS
