@@ -15,4 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~ 🌱 I’m currently learning Python, HTML, CSS, and JS
+~ 📚 I'm studying biomedical engineering at UNC (Go Heels!).
+
+~ 🌱 I’m currently learning Python, HTML, CSS, and JS.
+
+~ 🔭 I’m currently working on:
+      - A 360 degree motion space invaders game using pygame.
+      - Web development with HTML, CSS, and JS for school.
