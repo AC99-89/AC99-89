@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 ~ 📚 I'm studying biomedical engineering at UNC (Go Heels!).
 
 ~ 🌱 I’m currently learning Python, HTML, CSS, and JS.
-
-~ 🔭 My long-term academic goal right now is to get a masters degree.
