@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-~ 📚 I'm studying biomedical engineering.
+~ 📚 .
 
-~ 🌱 I’m currently learning Python, HTML, CSS, and JS.
+~ 🌱 .
